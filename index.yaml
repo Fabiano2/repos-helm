@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  aspnetcoreapp2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-18T00:20:06.413479495Z"
+    description: A Helm chart for Kubernetes
+    digest: 0d43234e41cf263e377445b0f24739b6e98bdf9d4c98ef47b68b9991b7bdfaf2
+    name: aspnetcoreapp2
+    type: application
+    urls:
+    - https://github.com/Fabiano2/repos-helm/aspnetcoreapp2-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-18T00:20:06.414072524Z"
+    description: A Helm chart for Kubernetes
+    digest: 0d43234e41cf263e377445b0f24739b6e98bdf9d4c98ef47b68b9991b7bdfaf2
+    name: aspnetcoreapp2
+    type: application
+    urls:
+    - https://github.com/Fabiano2/repos-helm/testPack-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-18T00:20:06.397174995Z"
