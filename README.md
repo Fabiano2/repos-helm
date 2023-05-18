@@ -1,1 +1,1 @@
-# repos-helm
+# helm-repository
